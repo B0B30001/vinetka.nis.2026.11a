@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="1024" viewBox="0 0 2048 1024">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1565C0;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0D47A1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="2048" height="1024" fill="url(#bg)" />
+  <rect x="624" y="412" width="800" height="200" rx="20" ry="20" fill="rgba(0,0,0,0.45)" />
+  <text x="1024" y="500" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="central">GYM</text>
+  <text x="1024" y="560" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="rgba(255,255,255,0.7)" text-anchor="middle" dominant-baseline="central">Placeholder — Replace with real panorama</text>
+</svg>
